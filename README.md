@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-year Cognitive Science B.S. undergraduate at UC Irvine currently part of the UCI CCNL Lab.<br><br>My main focus is experimental design and I am currently working on developing a couple experiments focused on associative inference and graph learning.<br><br>I am interested in how graph learning can modulate learning and decision making across the lifespan, and how this may exist in other types of memory stimuli, for example narratives.
+I graduated UCI with a degree in Cognitive Science B.S. at UC Irvine. I am currently a junior research specialist at the UCI CCN Lab.<br><br>My main focus is fMRI analysis and experimental design and I am currently working on developing a couple experiments focused on associative inference and graph learning.<br><br>I am interested in how graph learning can modulate learning and decision making across the lifespan, and how this may exist in other types of memory stimuli, for example narratives.
 
 
 ## 🌐 Socials:
